@@ -8,7 +8,7 @@ The YouTube Home Page project aims to replicate the layout and design of the You
 
 ## Preview
 
-![YouTube Home Page Preview](preview.png)
+![YouTube Home Page Preview](Youtube.PNG)
 
 ## Technologies Used
 
